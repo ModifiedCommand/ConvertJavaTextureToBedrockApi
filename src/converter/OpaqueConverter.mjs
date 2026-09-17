@@ -46,11 +46,11 @@ class OpaqueConverter extends AbstractConverter {
             ["textures/blocks/leaves_birch.png", "textures/blocks/leaves_birch_opaque.png"],
             ["textures/blocks/leaves_jungle.png", "textures/blocks/leaves_jungle_opaque.png"],
             ["textures/blocks/leaves_oak.png", "textures/blocks/leaves_oak_opaque.png"],
-            ["textures/blocks/leaves_spruce.png", "textures/blocks/leaves_spruce_opaque.png"]
-			["textures/blocks/mangrove_leaves.png", "textures/blocks/mangrove_leaves_opaque.png"]
-			["textures/blocks/orange_poplar_leaves.png", "textures/blocks/orange_poplar_leaves_opaque.png"]
-			["textures/blocks/pale_oak_leaves.png", "textures/blocks/pale_oak_leaves_opaque.png"]
-			["textures/blocks/red_poplar_leaves.png", "textures/blocks/red_poplar_leaves_opaque.png"]
+            ["textures/blocks/leaves_spruce.png", "textures/blocks/leaves_spruce_opaque.png"],
+			["textures/blocks/mangrove_leaves.png", "textures/blocks/mangrove_leaves_opaque.png"],
+			["textures/blocks/orange_poplar_leaves.png", "textures/blocks/orange_poplar_leaves_opaque.png"],
+			["textures/blocks/pale_oak_leaves.png", "textures/blocks/pale_oak_leaves_opaque.png"],
+			["textures/blocks/red_poplar_leaves.png", "textures/blocks/red_poplar_leaves_opaque.png"],
 			["textures/blocks/yellow_poplar_leaves.png", "textures/blocks/yellow_poplar_leaves_opaque.png"]
         ];
     }
